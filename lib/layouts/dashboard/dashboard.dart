@@ -157,7 +157,7 @@ class _HomeState extends State<Home> {
                   initialValue: {
                     'date': DateTime.now(),
                   },
-                  autovalidate: true,
+                  // autovalidate: true,
                   child: Column(
                     //your list view content here
 

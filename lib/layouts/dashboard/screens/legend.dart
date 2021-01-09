@@ -109,7 +109,7 @@ class _LegendState extends State<Legend> {
                             'date': DateTime.now(),
                             'accept_terms': false,
                           },
-                          autovalidate: true,
+                          // autovalidate: true,
                           child:  Column(
                             //your list view content here
 
